@@ -22,6 +22,11 @@ Link for team registration - [Link](https://forms.gle/mn6wPEz1bk6bUjon8)
 - Dataset - [Salary Dataset](https://www.kaggle.com/datasets/vrajesh0sharma7/salary-prediction-250k)
 - Handwritten Notes is available in **Session 2** folder.
 
+---
+# Session 3
+- Kaggle Notebook - [Person Classification](https://www.kaggle.com/code/vrajesh0sharma7/aspdc-cnn-person-classification)
+- Dataset - [Facial Dataset](https://www.kaggle.com/datasets/vrajesh0sharma7/aspdc-cnn-images)
+- Presentation Slides will be uploaded soon.
 
 ---
 ### For any query or support 
