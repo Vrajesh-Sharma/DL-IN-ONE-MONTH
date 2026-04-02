@@ -29,5 +29,10 @@ Link for team registration - [Link](https://forms.gle/mn6wPEz1bk6bUjon8)
 - Presentation Slides will be uploaded soon.
 
 ---
+# Session 4
+- Kaggle Notebook - [Stock Price Prediction](https://www.kaggle.com/code/vrajesh0sharma7/aspdc-rnn-stock-price-prediction)
+- Dataset - [NIFTY50](https://www.kaggle.com/datasets/vrajesh0sharma7/nifty50)
+
+---
 ### For any query or support 
 Contact Vrajesh - 9429619257
